@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend Services API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Backend",
+    "Service",
+    "API"
+  ],
+  "author": "Sandy Andryanto",
+  "license": "ISC"
+}
